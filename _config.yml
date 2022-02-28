@@ -1,6 +1,15 @@
 title: Ramanan Santhanagopalan
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="www.linkedin.com/in/ramanan-santhanagopalan-3877aa49">LinkedIn</a> |
+  <a href="https://github.com/rsanthanagopalan">GitHub</a>
+  
+  <br>   
+  I am a product leader and an avid seeker of knowledge with varying interests (supply chain, product management, machine learning, distributed computing etc.). 
+  I've over 18 years of experience across a spectrum of software engineering, technical leadership and product management roles in consulting and global corporations.
+  My aspiration is to build products that delight users through an amalgamation of simplified experience, automation of the mundane and enabling exception based decision making.
+  <br>
+  </p>
